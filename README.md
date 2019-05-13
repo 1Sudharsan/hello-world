@@ -10,7 +10,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #12357;
     position: fixed;
     top: 0;
     width: 100%;
@@ -57,7 +57,7 @@ margin-top:8px;
   <li><a href="#contact">Contact</a></li>
   <li><input type="text" class="search" placeholder="Search Here"></li>
   <li><a href="#about">About</a></li>
-  
+
 </ul>
 
 <div style="padding:20px;margin-top:30px;background-color:#1abc9c;height:1500px;">
